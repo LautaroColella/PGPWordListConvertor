@@ -1,4 +1,4 @@
-# PGP Word List to Hex convertor
+# PGP Word List to Hex converter
 
 ## Description
 
